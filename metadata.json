@@ -1,0 +1,6 @@
+{
+  "name": "OLAYE International — Botanical Haute Parfumerie & Haircare",
+  "description": "Artisanal cold-pressed black seed hair therapy and botanical couture formulations by OLAYE International.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

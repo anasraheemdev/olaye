@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0" name="viewport"/><meta content="web_standard" name="shell-type"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600&amp;family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><style>@layer base{html,body{margin:0;padding:0;}body{overscroll-behavior:none;}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}</style><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config = { darkMode: "class", theme: { extend: { "colors": { "primary-fixed-dim": "#ebc166", "on-surface": "#e5e2e1", "primary-container": "#c9a24b", "on-secondary-fixed-variant": "#3b4d14", "on-tertiary": "#003060", "on-error-container": "#ffdad6", "on-primary": "#402d00", "surface-container-highest": "#353534", "secondary-container": "#3b4d14", "on-secondary-container": "#a7bd78", "inverse-on-surface": "#313030", "tertiary-fixed": "#d5e3ff", "tertiary-fixed-dim": "#a7c8ff", "on-background": "#e5e2e1", "primary-fixed": "#ffdf9e", "surface-container-high": "#2a2a2a", "surface-tint": "#ebc166", "secondary-fixed-dim": "#b8cf88", "inverse-primary": "#795902", "on-tertiary-fixed-variant": "#224778", "on-primary-fixed": "#261a00", "surface-dim": "#131313", "on-tertiary-fixed": "#001b3b", "on-primary-fixed-variant": "#5b4300", "on-primary-container": "#4f3900", "inverse-surface": "#e5e2e1", "on-surface-variant": "#d1c5b2", "error": "#ffb4ab", "background": "#131313", "on-error": "#690005", "surface-container-lowest": "#0e0e0e", "on-secondary-fixed": "#141f00", "surface-container-low": "#1c1b1b", "tertiary": "#a7c8ff", "surface-variant": "#353534", "primary": "#ebc166", "secondary": "#b8cf88", "outline-variant": "#4e4637", "surface-container": "#201f1f", "error-container": "#93000a", "surface": "#131313", "outline": "#9a8f7e", "tertiary-container": "#87a9e0", "surface-bright": "#3a3939", "on-tertiary-container": "#153d6d", "secondary-fixed": "#d4eca2", "on-secondary": "#253600" }, "borderRadius": { "DEFAULT": "0.125rem", "lg": "0.25rem", "xl": "0.5rem", "full": "0.75rem" }, "spacing": { "space-md": "1.5rem", "margin": "4rem", "margin-mobile": "1.25rem", "gutter": "1.5rem", "space-sm": "0.75rem", "space-xl": "4rem", "gutter-mobile": "1rem", "space-lg": "2.5rem", "space-xs": "0.375rem" }, "fontFamily": { "display-hero": [ "Playfair Display" ], "display-hero-mobile": [ "Playfair Display" ], "headline-sm": [ "Playfair Display" ], "headline-md": [ "Playfair Display" ], "body-sm": [ "Manrope" ], "label-sm": [ "Manrope" ], "body-lg": [ "Manrope" ], "headline-lg": [ "Playfair Display" ], "title-md": [ "Manrope" ], "label-caps": [ "Manrope" ], "body-md": [ "Manrope" ], "headline-lg-mobile": [ "Playfair Display" ] }, "fontSize": { "display-hero": [ "56px", { "lineHeight": "64px", "letterSpacing": "-0.02em", "fontWeight": "400" } ], "display-hero-mobile": [ "36px", { "lineHeight": "44px", "letterSpacing": "-0.01em", "fontWeight": "400" } ], "headline-sm": [ "20px", { "lineHeight": "28px", "letterSpacing": "0.01em", "fontWeight": "500" } ], "headline-md": [ "28px", { "lineHeight": "36px", "letterSpacing": "0", "fontWeight": "500" } ], "body-sm": [ "13px", { "lineHeight": "20px", "letterSpacing": "0.02em", "fontWeight": "400" } ], "label-sm": [ "12px", { "lineHeight": "16px", "letterSpacing": "0.03em", "fontWeight": "500" } ], "body-lg": [ "18px", { "lineHeight": "30px", "letterSpacing": "0.01em", "fontWeight": "300" } ], "headline-lg": [ "40px", { "lineHeight": "48px", "letterSpacing": "-0.01em", "fontWeight": "400" } ], "title-md": [ "16px", { "lineHeight": "24px", "letterSpacing": "0.04em", "fontWeight": "600" } ], "label-caps": [ "11px", { "lineHeight": "16px", "letterSpacing": "0.18em", "fontWeight": "600" } ], "body-md": [ "15px", { "lineHeight": "26px", "letterSpacing": "0.01em", "fontWeight": "300" } ], "headline-lg-mobile": [ "28px", { "lineHeight": "36px", "letterSpacing": "0", "fontWeight": "400" } ] } } } };</script></head><body class="bg-surface font-body-md text-on-surface antialiased selection:bg-primary selection:text-on-primary"><header class="fixed top-0 left-0 right-0 z-50 bg-surface-container-lowest/80 backdrop-blur-xl shadow-[0_12px_32px_-4px_rgba(0,0,0,0.7)]"><div class="h-20 max-w-[1440px] mx-auto px-margin flex items-center justify-between"><div class="flex items-center gap-space-sm"><img alt="OLAYE Emblem" class="h-8 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AEtjO1X-mbIA1-vgXGgYi_NcRy6XIfwR6QNJeVFY43tNRBORKIWABXpfezelGhMdC3rhModqWe0zm34V-4JYbh1kLzAlyXNd4OODOHsHaxg5oWPBq2H-rQFEUT8u535euII8g4a5g2MN8ICLcE_o01QGcY9b2_FOdZJR4U83O-7thpcYvCArlWTvszcNFwV_nKETx9ugChFWQFeJuQOm1pxiDaf5ECSZ0s1KThSxuTkFpLuFdg"/><a class="flex flex-col" data-path="home" href="#"><span class="font-headline-sm text-headline-sm uppercase tracking-[0.14em] text-on-surface hover:text-primary transition-colors duration-300">OLAYE</span><span class="font-label-caps text-label-caps uppercase text-outline tracking-[0.24em] -mt-1">International</span></a></div><nav class="hidden md:flex items-center gap-space-lg" data-active-classes="text-primary border-b border-primary pb-1"><a aria-current="page" class="font-label-caps uppercase transition-colors duration-300 py-1 text-primary border-b border-primary pb-1" data-path="home" href="#">Home</a><a class="font-label-caps text-label-caps uppercase text-on-surface-variant hover:text-primary transition-colors duration-300 py-1" data-path="collection" href="#">Collection</a><a class="font-label-caps text-label-caps uppercase text-on-surface-variant hover:text-primary transition-colors duration-300 py-1" data-path="our-story" href="#">Our Story</a><a class="font-label-caps text-label-caps uppercase text-on-surface-variant hover:text-primary transition-colors duration-300 py-1" data-path="stockists" href="#">Stockists</a><a class="font-label-caps text-label-caps uppercase text-on-surface-variant hover:text-primary transition-colors duration-300 py-1" data-path="contact" href="#">Contact</a></nav><div class="flex items-center gap-space-md"><a class="hidden lg:inline-flex items-center justify-center px-space-md py-space-xs bg-surface-container-lowest text-on-surface font-label-caps text-label-caps uppercase tracking-[0.16em] border border-primary hover:border-primary-fixed hover:text-primary hover:shadow-[0_0_16px_rgba(201,162,75,0.25)] transition-all duration-300" data-path="collection" href="#">Explore the Product</a><div class="w-8 h-8 rounded-full bg-primary flex items-center justify-center cursor-pointer shadow-sm"><span class="material-symbols-outlined text-on-primary text-[18px]">person</span></div></div></div></header><main class="w-full pt-20 bg-surface min-h-screen"><div class="flex flex-col w-full">
+<!-- 1. HERO SECTION -->
+<section class="relative w-full overflow-hidden bg-surface-container-lowest -mt-20 pt-28 pb-space-xl">
+<!-- Ambient gold and botanical glow backdrops -->
+<div class="pointer-events-none absolute top-12 right-1/4 w-[540px] h-[540px] bg-primary/10 rounded-full blur-[140px]"></div>
+<div class="pointer-events-none absolute -bottom-16 left-10 w-[420px] h-[420px] bg-secondary-container/20 rounded-full blur-[120px]"></div>
+<div class="max-w-[1440px] mx-auto px-margin">
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-space-lg items-center min-h-[760px]">
+<!-- Left: Editorial Content -->
+<div class="lg:col-span-6 flex flex-col justify-center space-y-space-md z-10">
+<div class="inline-flex items-center gap-space-xs self-start px-space-sm py-1 bg-surface-container/70 rounded-full shadow-sm">
+<span class="w-1.5 h-1.5 rounded-full bg-primary animate-pulse"></span>
+<span class="font-label-caps text-label-caps uppercase text-primary tracking-[0.22em]">Botanical Hair Therapy</span>
+</div>
+<h1 class="font-display-hero text-display-hero text-on-surface tracking-tight max-w-[620px]">
+            Black Seed Power for <span class="italic text-primary font-normal">Stronger</span>, Shinier Hair
+          </h1>
+<p class="font-body-lg text-body-lg text-on-surface-variant max-w-[540px] leading-relaxed">
+            Where sacred Eastern botanical alchemy converges with disciplined British cosmetic couture. An artisanal restorative ritual crafted to elevate everyday cleansing into an elevated sensory ceremony.
+          </p>
+<div class="flex flex-wrap items-center gap-space-md pt-space-xs">
+<a class="inline-flex items-center justify-center px-space-lg py-space-sm bg-primary text-on-primary font-label-caps text-label-caps uppercase tracking-[0.18em] shadow-[0_0_24px_rgba(235,193,102,0.32)] hover:shadow-[0_0_36px_rgba(235,193,102,0.5)] hover:bg-primary-fixed transition-all duration-300" data-path="collection" href="#">
+              Explore the Product
+            </a>
+<a class="inline-flex items-center justify-center px-space-lg py-space-sm bg-surface-container-high/60 backdrop-blur-md text-on-surface font-label-caps text-label-caps uppercase tracking-[0.18em] shadow-sm hover:text-primary hover:bg-surface-container-highest transition-all duration-300" data-path="contact" href="#">
+              Contact Us
+            </a>
+</div>
+<!-- Formulation Sub-metric -->
+<div class="pt-space-md flex items-center gap-space-lg">
+<div>
+<span class="block font-headline-sm text-headline-sm text-primary">100%</span>
+<span class="font-label-caps text-label-caps uppercase text-outline tracking-wider">Cold-Pressed Essence</span>
+</div>
+<div class="w-px h-8 bg-surface-container-highest"></div>
+<div>
+<span class="block font-headline-sm text-headline-sm text-on-surface">Nigella</span>
+<span class="font-label-caps text-label-caps uppercase text-outline tracking-wider">Active Sativa Seed</span>
+</div>
+<div class="w-px h-8 bg-surface-container-highest"></div>
+<div>
+<span class="block font-headline-sm text-headline-sm text-secondary">0%</span>
+<span class="font-label-caps text-label-caps uppercase text-outline tracking-wider">Silicone &amp; Sulfates</span>
+</div>
+</div>
+</div>
+<!-- Right: Hero Visual Bottle Showcase -->
+<div class="lg:col-span-6 relative flex justify-center items-center">
+<div class="relative w-full max-w-[560px] aspect-[4/5] bg-surface-container-low/40 rounded-xl overflow-hidden shadow-2xl flex items-center justify-center">
+<!-- Ambient Radiance Disc -->
+<div class="absolute inset-0 bg-radial from-primary/20 via-transparent to-transparent opacity-80 pointer-events-none"></div>
+<img alt="OLAYE International Haute Black Seed Hair Bottle with Golden Swirl" class="w-full h-full object-contain object-center scale-105 hover:scale-110 transition-transform duration-700 ease-out select-none" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAwQRxV5ZO0txPKAOO0l8OHD57BGf2xXJuXRRhXPEO9PqlOYU3G68TKeU23rI4w4yWqURMGLQYVE39xybO2GwtkAC1fDN_t04Fdm4tozP2Eu8CFGZFm09six6m1zFKH36ype9iS4otegPQ-Z55EdWh55YEGzbQ_KZqDHh49oeuMyDee53zcXEdCBGmOsMaAJLOWdLjNApY20dzvHOk85jtgvCIBdhvAcOo4zISvRvXR"/>
+<!-- Floating Micro-Badge -->
+<div class="absolute bottom-6 right-6 px-space-md py-space-xs bg-surface-container-lowest/80 backdrop-blur-xl shadow-xl flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-primary text-[18px]">verified</span>
+<span class="font-label-caps text-label-caps uppercase text-on-surface tracking-widest">Haute Couture 250ml</span>
+</div>
+</div>
+</div>
+</div>
+<!-- Bottom Ceremony Scroll Guide -->
+<div class="pt-space-lg flex items-center justify-between">
+<div class="flex items-center gap-space-sm">
+<span class="w-12 h-px bg-primary/40"></span>
+<span class="font-label-caps text-label-caps uppercase tracking-[0.26em] text-outline">Discover Ceremony</span>
+</div>
+<div class="flex items-center gap-space-xs text-outline">
+<span class="font-label-caps text-label-caps uppercase tracking-widest text-on-surface-variant">Batch 01</span>
+<span class="text-xs">•</span>
+<span class="font-label-caps text-label-caps uppercase tracking-widest text-primary">Atelier London</span>
+</div>
+</div>
+</div>
+</section>
+<!-- 2. THREE HIGHLIGHTS (Horizontal Glass Triad) -->
+<section class="w-full bg-surface py-space-xl">
+<div class="max-w-[1440px] mx-auto px-margin">
+<div class="flex flex-col md:flex-row md:items-end justify-between mb-space-lg">
+<div>
+<span class="font-label-caps text-label-caps uppercase text-primary tracking-[0.24em] block mb-2">Cellular Regeneration</span>
+<h2 class="font-headline-lg text-headline-lg text-on-surface tracking-tight">The Three Botanical Pillars</h2>
+</div>
+<p class="font-body-sm text-body-sm text-on-surface-variant max-w-sm mt-3 md:mt-0">
+          Rooted in pharmaceutical-grade extraction to nurture follicles, reinforce shaft architecture, and reflect pure ambient light.
+        </p>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-space-md">
+<!-- Card 1: Nourishes -->
+<div class="group relative bg-surface-container-low/70 backdrop-blur-md p-space-lg rounded-xl shadow-md hover:bg-surface-container-high/70 hover:shadow-2xl transition-all duration-500">
+<div class="flex items-center justify-between mb-space-md">
+<div class="w-12 h-12 rounded-full bg-surface-container-highest flex items-center justify-center text-primary group-hover:scale-110 transition-transform duration-300">
+<svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24">
+<path d="M12 3v2.25m6.364.386l-1.591 1.591M21 12h-2.25m-.386 6.364l-1.591-1.591M12 18.75V21m-4.773-4.227l-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</div>
+<span class="font-label-caps text-label-caps uppercase tracking-widest text-primary px-2.5 py-1 bg-surface-container-highest rounded-full">01 / Lipid Base</span>
+</div>
+<h3 class="font-headline-sm text-headline-sm text-on-surface mb-space-xs">Nourishes</h3>
+<p class="font-body-md text-body-md text-on-surface-variant leading-relaxed mb-space-md">
+            Deep lipid replenishment infused with cold-pressed Nigella Sativa oil to soothe stressed scalps and fortify dehydrated cuticles against environmental depletion.
+          </p>
+<div class="inline-flex items-center gap-2 text-secondary font-label-caps text-label-caps uppercase tracking-[0.16em]">
+<span class="w-1.5 h-1.5 rounded-full bg-secondary"></span>
+            Nigella Sativa Extract
+          </div>
+</div>
+<!-- Card 2: Strengthens -->
+<div class="group relative bg-surface-container-low/70 backdrop-blur-md p-space-lg rounded-xl shadow-md hover:bg-surface-container-high/70 hover:shadow-2xl transition-all duration-500">
+<div class="flex items-center justify-between mb-space-md">
+<div class="w-12 h-12 rounded-full bg-surface-container-highest flex items-center justify-center text-primary group-hover:scale-110 transition-transform duration-300">
+<svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24">
+<path d="M3.75 13.5l10.5-11.25L12 10.5h8.25L9.75 21.75 12 13.5H3.75z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</div>
+<span class="font-label-caps text-label-caps uppercase tracking-widest text-primary px-2.5 py-1 bg-surface-container-highest rounded-full">02 / Keratin Core</span>
+</div>
+<h3 class="font-headline-sm text-headline-sm text-on-surface mb-space-xs">Strengthens</h3>
+<p class="font-body-md text-body-md text-on-surface-variant leading-relaxed mb-space-md">
+            Cements keratin micro-fibers from follicle to tip, reducing breakage and restoring structural density while safeguarding virgin hair integrity.
+          </p>
+<div class="inline-flex items-center gap-2 text-secondary font-label-caps text-label-caps uppercase tracking-[0.16em]">
+<span class="w-1.5 h-1.5 rounded-full bg-secondary"></span>
+            Nigella Sativa Extract
+          </div>
+</div>
+<!-- Card 3: Adds Shine -->
+<div class="group relative bg-surface-container-low/70 backdrop-blur-md p-space-lg rounded-xl shadow-md hover:bg-surface-container-high/70 hover:shadow-2xl transition-all duration-500">
+<div class="flex items-center justify-between mb-space-md">
+<div class="w-12 h-12 rounded-full bg-surface-container-highest flex items-center justify-center text-primary group-hover:scale-110 transition-transform duration-300">
+<svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24">
+<path d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09zM18.259 8.715L18 9.75l-.259-1.035a3.375 3.375 0 00-2.455-2.456L14.25 6l1.036-.259a3.375 3.375 0 002.455-2.456L18 2.25l.259 1.035a3.375 3.375 0 002.456 2.456L21.75 6l-1.035.259a3.375 3.375 0 00-2.456 2.456zM16.894 20.567L16.5 21.75l-.394-1.183a2.25 2.25 0 00-1.423-1.423L13.5 18.75l1.183-.394a2.25 2.25 0 001.423-1.423l.394-1.183.394 1.183a2.25 2.25 0 001.423 1.423l1.183.394-1.183.394a2.25 2.25 0 00-1.423 1.423z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</div>
+<span class="font-label-caps text-label-caps uppercase tracking-widest text-primary px-2.5 py-1 bg-surface-container-highest rounded-full">03 / Mirror Surface</span>
+</div>
+<h3 class="font-headline-sm text-headline-sm text-on-surface mb-space-xs">Adds Shine</h3>
+<p class="font-body-md text-body-md text-on-surface-variant leading-relaxed mb-space-md">
+            Delivers glass-like mirror luminescence and silken fluidity without greasy heaviness, leaving hair buoyant and naturally conditioned.
+          </p>
+<div class="inline-flex items-center gap-2 text-secondary font-label-caps text-label-caps uppercase tracking-[0.16em]">
+<span class="w-1.5 h-1.5 rounded-full bg-secondary"></span>
+            Nigella Sativa Extract
+          </div>
+</div>
+</div>
+</div>
+</section>
+<!-- 3. FEATURED PRODUCT TEASER -->
+<section class="w-full bg-surface-container-lowest py-space-xl">
+<div class="max-w-[1440px] mx-auto px-margin">
+<div class="bg-surface-container/60 backdrop-blur-xl rounded-xl shadow-2xl overflow-hidden">
+<div class="grid grid-cols-1 lg:grid-cols-12 items-center">
+<!-- Left: High-resolution Bottle Showcase -->
+<div class="lg:col-span-6 relative aspect-square lg:aspect-[5/4] bg-surface-container-low flex items-center justify-center p-space-lg overflow-hidden">
+<div class="absolute inset-0 bg-radial from-primary/25 via-transparent to-transparent pointer-events-none"></div>
+<img alt="OLAYE Black Seed Nourish &amp; Shine Shampoo Master Bottle" class="w-full h-full object-contain max-h-[500px] z-10 transition-transform duration-500 hover:scale-105" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAwQRxV5ZO0txPKAOO0l8OHD57BGf2xXJuXRRhXPEO9PqlOYU3G68TKeU23rI4w4yWqURMGLQYVE39xybO2GwtkAC1fDN_t04Fdm4tozP2Eu8CFGZFm09six6m1zFKH36ype9iS4otegPQ-Z55EdWh55YEGzbQ_KZqDHh49oeuMyDee53zcXEdCBGmOsMaAJLOWdLjNApY20dzvHOk85jtgvCIBdhvAcOo4zISvRvXR"/>
+<div class="absolute top-6 left-6 px-3 py-1 bg-surface-container-highest/80 backdrop-blur-md rounded-full">
+<span class="font-label-caps text-label-caps uppercase tracking-[0.2em] text-primary">Master Formula 01</span>
+</div>
+</div>
+<!-- Right: Curated Editorial Copy -->
+<div class="lg:col-span-6 p-space-lg lg:p-space-xl flex flex-col justify-center">
+<div class="inline-flex items-center gap-2 px-space-sm py-1 bg-surface-container-highest rounded-full self-start mb-space-sm">
+<span class="w-2 h-2 rounded-full bg-primary"></span>
+<span class="font-label-caps text-label-caps uppercase text-on-surface-variant tracking-[0.2em]">The Couture Elixir</span>
+</div>
+<h2 class="font-headline-lg text-headline-lg text-on-surface tracking-tight mb-space-sm">
+              Black Seed Nourish &amp; Shine Shampoo
+            </h2>
+<p class="font-body-lg text-body-lg text-on-surface-variant leading-relaxed mb-space-lg">
+              An extraordinary daily elixir formulated to awaken vitality, restore density, and impart luminous silken movement.
+            </p>
+<div class="flex items-center gap-space-md">
+<a class="inline-flex items-center justify-center px-space-lg py-space-sm bg-primary text-on-primary font-label-caps text-label-caps uppercase tracking-[0.18em] shadow-[0_0_24px_rgba(235,193,102,0.3)] hover:shadow-[0_0_36px_rgba(235,193,102,0.5)] hover:bg-primary-fixed transition-all duration-300" data-path="collection" href="#">
+                View Details
+              </a>
+<span class="font-body-sm text-body-sm text-outline tracking-wider uppercase">
+                Volume: 250ml e 8.4 fl. oz.
+              </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- 4. BRAND PROMISE STRIP -->
+<section class="w-full bg-surface-container-low py-space-md shadow-inner">
+<div class="max-w-[1440px] mx-auto px-margin">
+<div class="grid grid-cols-2 md:grid-cols-4 gap-space-md items-center">
+<!-- Promise 1 -->
+<div class="flex items-center justify-center gap-space-xs py-2">
+<span class="material-symbols-outlined text-primary text-[22px]">check_circle</span>
+<span class="font-label-caps text-label-caps uppercase text-on-surface tracking-[0.2em]">Silicone Free</span>
+</div>
+<!-- Promise 2 -->
+<div class="flex items-center justify-center gap-space-xs py-2">
+<span class="material-symbols-outlined text-primary text-[22px]">check_circle</span>
+<span class="font-label-caps text-label-caps uppercase text-on-surface tracking-[0.2em]">Paraben Free</span>
+</div>
+<!-- Promise 3 -->
+<div class="flex items-center justify-center gap-space-xs py-2">
+<span class="material-symbols-outlined text-primary text-[22px]">check_circle</span>
+<span class="font-label-caps text-label-caps uppercase text-on-surface tracking-[0.2em]">Cruelty Free</span>
+</div>
+<!-- Promise 4 -->
+<div class="flex items-center justify-center gap-space-xs py-2">
+<span class="material-symbols-outlined text-primary text-[22px]">check_circle</span>
+<span class="font-label-caps text-label-caps uppercase text-on-surface tracking-[0.2em]">For All Hair Types</span>
+</div>
+</div>
+</div>
+</section>
+<!-- 5. SHORT BRAND STORY (Editorial Split Section) -->
+<section class="w-full bg-surface py-space-xl">
+<div class="max-w-[1440px] mx-auto px-margin">
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-space-lg items-center">
+<!-- Left Column: Botanical Macro Photography -->
+<div class="lg:col-span-6 relative">
+<div class="relative w-full aspect-[4/3] rounded-xl overflow-hidden shadow-2xl bg-surface-container-low">
+<img alt="Brass scoop of glistening black Nigella seeds alongside botanical blue flower" class="w-full h-full object-cover object-center hover:scale-105 transition-transform duration-700 ease-out" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBCpkB0yqP2oYB-tjHzwVJkGRAQsyNTEZnjkjcUdZuXy2FAc1Nvnz6aVfJchYjekdIAjyTIEMPvI7SbeazaZ_hv6t8oHaigVzk25EXiLeF9ut4SXV60IN_2_ZETulE613KGanE5568ndBAcqtEJoNXW_fD7xKdAtgj97kwnkAxa3ZXAAJN5YZvWppy1Aqm_xt60WrexYFZPurfe9UKHS7-yvpHIl52Yp_mhQxaIiWby"/>
+<div class="absolute inset-0 bg-gradient-to-t from-surface-container-lowest/80 via-transparent to-transparent"></div>
+<div class="absolute bottom-6 left-6">
+<span class="font-label-caps text-label-caps uppercase tracking-[0.2em] text-primary block">Source &amp; Provenance</span>
+<span class="font-headline-sm text-headline-sm text-on-surface font-normal">Nigella Sativa Harvest</span>
+</div>
+</div>
+</div>
+<!-- Right Column: Poetic Apothecary Narrative -->
+<div class="lg:col-span-6 lg:pl-space-md flex flex-col justify-center space-y-space-md">
+<div class="inline-flex items-center gap-space-xs self-start px-space-sm py-1 bg-surface-container-high rounded-full">
+<span class="font-label-caps text-label-caps uppercase text-secondary tracking-[0.22em]">Apothecary Roots</span>
+</div>
+<h2 class="font-headline-lg text-headline-lg text-on-surface tracking-tight">
+            The Sacred Nigella Seed
+          </h2>
+<div class="space-y-space-xs font-body-lg text-body-lg text-on-surface-variant leading-relaxed">
+<p>
+              Revered for millennia across Eastern dynasties as the blessed seed of vitality.
+            </p>
+<p>
+              We distill cold-pressed botanical oils through British formulation science to create an incomparable haircare ceremony.
+            </p>
+<p class="text-on-surface">
+              Sensorial richness meets uncompromised purity for lasting strength and glass-like radiance.
+            </p>
+</div>
+<div class="pt-space-xs">
+<a class="inline-flex items-center gap-2 font-label-caps text-label-caps uppercase tracking-[0.2em] text-primary hover:text-primary-fixed group transition-colors" data-path="our-story" href="#">
+<span>Read Our Heritage</span>
+<span class="transform group-hover:translate-x-1 transition-transform">→</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- 6. CLIENT & PARTNER CTA BANNER -->
+<section class="w-full bg-surface-container-lowest py-space-xl">
+<div class="max-w-[1440px] mx-auto px-margin">
+<div class="relative overflow-hidden rounded-xl bg-surface-container-high p-space-lg md:p-space-xl shadow-2xl">
+<!-- Radial gold spotlight accent -->
+<div class="pointer-events-none absolute -top-24 right-10 w-96 h-96 bg-primary/20 rounded-full blur-[100px]"></div>
+<div class="relative z-10 max-w-2xl flex flex-col space-y-space-sm">
+<div class="inline-flex items-center gap-space-xs self-start px-3 py-1 bg-surface-container-highest rounded-full">
+<span class="w-1.5 h-1.5 rounded-full bg-primary"></span>
+<span class="font-label-caps text-label-caps uppercase text-primary tracking-[0.22em]">Prestige Salon &amp; Retail Alliance</span>
+</div>
+<h2 class="font-headline-lg text-headline-lg text-on-surface tracking-tight">
+            Partner with Olaye
+          </h2>
+<p class="font-body-lg text-body-lg text-on-surface-variant leading-relaxed">
+            Bespoke wholesale allocations, exclusive atelier curation, and priority worldwide salon partner accounts.
+          </p>
+<div class="pt-space-sm">
+<a class="inline-flex items-center justify-center px-space-lg py-space-sm bg-primary text-on-primary font-label-caps text-label-caps uppercase tracking-[0.2em] shadow-[0_0_28px_rgba(235,193,102,0.35)] hover:bg-primary-fixed hover:shadow-[0_0_40px_rgba(235,193,102,0.55)] transition-all duration-300" data-path="contact" href="#">
+              Get in Touch
+            </a>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div></main><footer class="w-full bg-surface-container-lowest text-on-surface-variant pt-space-xl pb-space-lg shadow-[0_-12px_32px_-4px_rgba(0,0,0,0.5)]"><div class="max-w-[1440px] mx-auto px-margin"><div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-space-lg mb-space-xl"><div><h4 class="font-headline-sm text-headline-sm text-on-surface mb-space-sm uppercase tracking-wider">Atelier &amp; Philosophy</h4><p class="font-body-sm text-body-sm text-on-surface-variant mb-space-sm leading-relaxed">Devoted to the mastery of rare botanical alchemy, botanical couture, and restorative haircare rituals designed for the sensorial senses.</p><p class="font-label-caps text-label-caps uppercase text-outline tracking-[0.2em]">Haute Botanical Haircare</p></div><div><h4 class="font-headline-sm text-headline-sm text-on-surface mb-space-sm uppercase tracking-wider">Signature Collection</h4><ul class="space-y-space-xs font-body-sm text-body-sm"><li class="py-1"><a class="text-on-surface-variant hover:text-primary transition-colors" data-path="collection" href="#">L'Huile Sublime Restoratrice</a></li><li class="py-1"><a class="text-on-surface-variant hover:text-primary transition-colors" data-path="collection" href="#">Nectar Concentré Botanical</a></li><li class="py-1"><a class="text-on-surface-variant hover:text-primary transition-colors" data-path="collection" href="#">Masque Céleste Regenerative</a></li><li class="py-1"><a class="text-on-surface-variant hover:text-primary transition-colors" data-path="collection" href="#">Baume de Soie Scalp Elixir</a></li><li class="py-1"><a class="text-on-surface-variant hover:text-primary transition-colors" data-path="collection" href="#">The Complete Atelier Box</a></li></ul></div><div><h4 class="font-headline-sm text-headline-sm text-on-surface mb-space-sm uppercase tracking-wider">Client &amp; Salon</h4><ul class="space-y-space-xs font-body-sm text-body-sm"><li class="py-1"><a class="text-on-surface-variant hover:text-primary transition-colors" data-path="stockists" href="#">Global Salon Partnerships</a></li><li class="py-1"><a class="text-on-surface-variant hover:text-primary transition-colors" data-path="contact" href="#">Private Haircare Consultations</a></li><li class="py-1"><a class="text-on-surface-variant hover:text-primary transition-colors" data-path="stockists" href="#">Official Atelier Stockists</a></li><li class="py-1"><a class="text-on-surface-variant hover:text-primary transition-colors" data-path="contact" href="#">Bespoke Masterclasses</a></li><li class="py-1"><a class="text-on-surface-variant hover:text-primary transition-colors" data-path="contact" href="#">Press &amp; Editorial Inquiries</a></li></ul></div><div><h4 class="font-headline-sm text-headline-sm text-on-surface mb-space-sm uppercase tracking-wider">Newsletter &amp; Contact</h4><p class="font-body-sm text-body-sm text-on-surface-variant mb-space-sm leading-relaxed">Receive private dispatches regarding seasonal botanicals, harvest notes, and ritual launches.</p><div class="flex flex-col gap-space-xs mb-space-sm font-body-sm text-body-sm text-on-surface"><a class="hover:text-primary transition-colors" href="mailto:support@olayeinternational.com">support@olayeinternational.com</a><a class="hover:text-primary transition-colors" href="tel:+8613172021392">+86 131 7202 1392</a></div><div class="flex items-center gap-space-md"><a class="font-label-caps text-label-caps uppercase text-outline hover:text-primary transition-colors" href="#">Instagram</a><a class="font-label-caps text-label-caps uppercase text-outline hover:text-primary transition-colors" href="#">WeChat</a><a class="font-label-caps text-label-caps uppercase text-outline hover:text-primary transition-colors" href="#">LinkedIn</a></div></div></div><div class="flex flex-col md:flex-row items-center justify-between pt-space-md font-label-caps text-label-caps uppercase tracking-[0.16em] text-outline"><p>© Olaye International. All rights reserved.</p><div class="flex items-center gap-space-md mt-space-sm md:mt-0"><a class="hover:text-primary transition-colors" href="#">Privacy Policy</a><a class="hover:text-primary transition-colors" href="#">Terms of Ritual</a><a class="hover:text-primary transition-colors" href="#">Formulation Disclosures</a></div></div></div></footer></body></html>
